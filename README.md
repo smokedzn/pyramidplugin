@@ -46,3 +46,7 @@ Change maximum size at **(Row 37)**:
 ``` lua
 if size > <size | default: 10> then size = <size | default: 10> end
 ```  
+
+### Contribute 
+Please use the Development Branch for PRs.
+Any help is always appreciated! 
