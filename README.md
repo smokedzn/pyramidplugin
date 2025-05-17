@@ -4,8 +4,11 @@ Plugin to create automated Pyramids at different Sizes and Emotes
 ### Installation
 1. Download the Newest Release
 2. Extract or Move the Folder inside the ZIP File to 
-``` C:\Users\[Your Username]\AppData\Roaming\Chatterino2\Plugins ```
-3. Enable the Plugin in the Chatterino Settings
+
+``` C:\Users\[Your Username]\AppData\Roaming\Chatterino2\Plugins ```  
+
+3. Enable the Plugin in the Chatterino Settings  
+
 ```Settings -> Plugins -> "Enable plugins"``` 
 > **If nothing shows up after enabling plugins, disable ```"Enable plugins"``` and turn it on again *or* restart your Chatterino**
 4. Click on ```Enable``` at the bottom after the enabling the Plugin
